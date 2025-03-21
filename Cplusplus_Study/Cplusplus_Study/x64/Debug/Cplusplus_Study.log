@@ -1,0 +1,3 @@
+﻿  shopmaker.cpp
+C:\my git\Cplusplus_Study\Cplusplue_Study\Cplusplus_Study\Cplusplus_Study\shopmaker.cpp(245,25): warning C4804: '<=': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+  Cplusplus_Study.vcxproj -> C:\my git\Cplusplus_Study\Cplusplue_Study\Cplusplus_Study\x64\Debug\Cplusplus_Study.exe
